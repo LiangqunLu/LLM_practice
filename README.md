@@ -8,11 +8,9 @@ Large language models (LLMs) have a fantastic evolution trajectory even dated ba
 Transformer (Attention is what you need) marks the starting of LLM era. 
 ![transformer](images/transformer.png)
 
-Obviously, ChatGPT is worldside applicable. There is an important development history for the GPT training models [2]. It is easy to understand why prompting engineering is useful through the model training.
-
+It is interesting to know the steps for GPT assistant training [2].
 ![GPT Assistant training pipeline](images/openAI_model_dev.png)
 
-## Pre-training
 
 
 ## Fine-tuning
@@ -27,6 +25,8 @@ There are practical strategies for LLM practice.
 
 Regarding fine-tune, there are stratigies to enable the applications.
 + LoRA: Low-Rank Adaption of LLM 
+
+
 
 ## Ongoing
 
@@ -60,8 +60,9 @@ In summary, LLM is going forward an amazing future with pre-training and fine-tu
 
 ### References
 [1] [The brief history of Large Language Models: A Journey from ELIZA to GPT-4 and Google Bard](https://levelup.gitconnected.com/the-brief-history-of-large-language-models-a-journey-from-eliza-to-gpt-4-and-google-bard-167c614af5af)
+
 [2] [Andrej Karpathy: State of GPT Microsoft Build 2023](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
-
+[3] [ChatGPT vs. Bard vs. Claude 2 (Which is best?)](https://medium.com/@vdrcopywriting/chatgpt-vs-bard-vs-claude-2-which-is-best-7fafd7bcdd21)
 
 
